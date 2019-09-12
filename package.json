@@ -1,0 +1,15 @@
+{
+    "name": "random-functions",
+    "version": "1.0.0",
+    "description": "Get Hashcode for random generated code",
+    "repository": "manprajapat/random-functions",
+    "main": "index.js",
+    "author": "Manish Prajapatis",
+    "keywords": [
+        "random color",
+        "npm",
+        "package",
+        "color code",
+        "randome color code genrerator"
+    ]
+}
