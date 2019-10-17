@@ -18,6 +18,8 @@ import randomF from 'random-functions';
 const randomF = require('random-functions');
 
 var color = randomF.color(); # returns '#hascodeforcolor' e.g. #0E8F3B
+var static_color = randomF.static_color(2); # 2 is index upto 280
+var otp = randomF.otp(); #return random OTP code
 ```
 
 ## Contributing

@@ -1,7 +1,7 @@
 {
     "name": "random-functions",
-    "version": "1.0.0",
-    "description": "Get Hashcode for random generated code",
+    "version": "1.0.2",
+    "description": "Javascript common functions",
     "repository": "manprajapat/random-functions",
     "main": "index.js",
     "author": "Manish Prajapatis",
@@ -10,6 +10,7 @@
         "npm",
         "package",
         "color code",
-        "randome color code genrerator"
+        "randome color code genrerator",
+        "static random color"
     ]
 }
